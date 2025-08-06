@@ -1,0 +1,28 @@
+VMRay Public Sandbox report:
+https://www.vmray.com/analyses/30097b749d2e/report/overview.html
+Creation date: 23-07-2025
+
+- Guloader config extracted
+- VIPKeylogger config extracted 
+
+Other investigation resources:
+Public facing email server with Roundcube
+FOFA query: https://en.fofa.info/result?qbase64=Im1zcGhpdGVjdC5jb20ubXkiICYmIHRpdGxlPT0iV2VibWFpbCDnmbvlvZUi
+
+Guloader download path URL:
+https://drive[.]google[.]com/uc?export=download&id=1K71AZjiLAtyU8sLQiDfxN8djA1piSF0k
+
+Observed MITRE ATT&CK TTPs
+
+T1106 - Execution
+T1158 - Defense Evasion, Persistence
+T1134 - Defense Evasion, Privilege Escalation
+T1497 - Defense Evasion, Discovery
+T1158 - Defense Evasion, Persistence
+T1143 - Defense Evasion
+T1045 - Defense Evasion
+T1027 - Defense Evasion
+T1006 - Defense Evasion
+T1057 - Discovery
+T1105 - Command And Control, Lateral Movement
+T1071 - Command And Control
