@@ -1,0 +1,36 @@
+VMRay Public Sandbox report:
+https://www.vmray.com/analyses/9736b3c71f0a/report/overview.html
+Creation date: 06-08-2025
+
+- File: "Confirming - Detalle de Facturas Cobradas.exe" -- original delivery via email RAR attachment
+- Guloader config extracted
+- VIPKeylogger config extracted 
+
+Other investigation resources:
+Public facing email server with Roundcube
+https://en.fofa.info/result?qbase64=ImNldGVtZXQuZXMiICYmIHRpdGxlPT0iV2VibWFpbCDnmbvlvZUi
+
+Guloader download path URL:
+https://drive.google.com/uc?export=download&id=1Yx-DmcbgIlhdmqtcQimZtbaIRgFKpzYp
+
+Observed MITRE ATT&CK TTPs
+
+T1106 - Execution
+T1158 - Defense Evasion, Persistence
+T1134 - Defense Evasion, Privilege Escalation
+T1497 - Defense Evasion, Discovery
+T1158 - Defense Evasion, Persistence
+T1143 - Defense Evasion
+T1045 - Defense Evasion
+T1027 - Defense Evasion
+T1006 - Defense Evasion
+T1214 - Credential Access
+T1081 - Credential Access
+T1083 - Discovery
+T1016 - Discovery
+T1012 - Discovery
+T1057 - Discovery
+T1105 - Command And Control, Lateral Movement
+T1119 - Collection
+T1005 - Collection
+T1071 - Command And Control
