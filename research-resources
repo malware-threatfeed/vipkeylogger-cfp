@@ -1,0 +1,25 @@
+Resources to check out
+
+Malware analysis: Guloader
+https://medium.com/@avaen/malware-analysis-guloader-from-vbs-to-keylogger-54359931efb0
+
+Sigma rule generator: 
+https://chatgpt.com/g/g-UHJOIOvWE-sigma-detection-rule-generator
+
+Leveraging LLMs for Sigma rule generation:
+https://www.youtube[.]com/watch?v=oPsSUxt7ufs 
+
+Beginning to SIGMA:
+https://socprime.com/blog/sigma-rules-the-beginners-guide/
+
+Infostealers and Exfil methods
+https://www.bitsight.com/blog/exfiltration-over-telegram-bots-skidding-infostealer-logs
+
+Roundcube vuln 2025 news:
+https://www.bleepingcomputer.com/news/security/over-84-000-roundcube-instances-vulnerable-to-actively-exploited-flaw/
+
+Roundcube vuln 2024 write up:
+https://www.sonarsource.com/blog/government-emails-at-risk-critical-cross-site-scripting-vulnerability-in-roundcube-webmail/
+
+Sandbox and Gap Analysis with MITRE ATT&CK
+https://www.youtube.com/watch?v=YJcUbvIAMCQ
