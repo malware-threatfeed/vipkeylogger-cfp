@@ -1,0 +1,23 @@
+title: External IP Lookup via reallyfreegeoip.org (VipKeylogger)
+id: f7cc6cf3-4f16-469f-baf8-b9a8cf3f159b
+status: experimental
+description: Detects a DNS query to reallyfreegeoip.org, a domain used by VipKeylogger (Snakekeylogger) for discovering the external IP address of the infected system.
+author: Sigma Detection Rule Generator
+date: 2025/08/08
+logsource:
+  category: dns
+  product: windows
+  service: microsoft-windows-dns-client
+detection:
+  selection:
+    EventID: 22
+    QueryName: 'reallyfreegeoip.org'
+  condition: selection
+falsepositives:
+  - Legitimate tools or scripts querying public IP services
+level: medium
+tags:
+  - attack.discovery
+  - attack.t1016.001
+  - malware.vipkeylogger
+  - detection.dns
